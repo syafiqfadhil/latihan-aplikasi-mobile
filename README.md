@@ -1,4 +1,4 @@
-# Latihan Pertemuan Pertama Mobile
+# Latihan Pertemuan Pertama Aplikasi Mobile
 
 Repositori ini berisi kumpulan kode latihan dasar bahasa pemrograman **Dart** yang mencakup pemahaman tipe data, variabel, penggunaan null safety, list, hingga string interpolation.
 
