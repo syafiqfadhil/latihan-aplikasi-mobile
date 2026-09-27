@@ -1,10 +1,10 @@
-# Latihan Dasar Pemrograman Dart
+# Latihan Pertemuan Pertama Mobile
 
 Repositori ini berisi kumpulan kode latihan dasar bahasa pemrograman **Dart** yang mencakup pemahaman tipe data, variabel, penggunaan null safety, list, hingga string interpolation.
 
 ## Penjelasan Kode
 
-Berikut adalah ringkasan konsep yang diimplementasikan dalam file `main.dart`:
+Ringkasan konsep yang diimplementasikan dalam file `main.dart`:
 
 1. **Deklarasi Variabel & Tipe Data Dasar:**
    * `String`: Menyimpan teks/nama mahasiswa (`namaMahasiswa`, `namaProdi`).
